@@ -95,6 +95,13 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.qasym.utilities": {
+      "version": "https://github.com/Qasym/unity_utilities.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "548505092cd3cabb81f3b19ec25ab5170b0440fe"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.9",
       "depth": 0,
